@@ -164,10 +164,10 @@ function Home() {
     <h1 className="projects-h">Projects</h1>
     <div className="project-section">
         <div className="projects-detail" id="project1">
-            <a href="https://mohidshahid.netlify.app/#" className="code-link1">
+            <a href="https://github.com/SamiaSaghir89/Amazon-clone" className="code-link1">
                 <img src="/pics/github (1).png" alt="" />
             </a>
-            <img src="/pics/pro1.png" alt="" className="Project-img" />
+            <img src="/pics/pro1.PNG" alt="" className="Project-img" />
             <div class="elements">
                 <h3 class="project-heading">Amazon-Clone</h3>
                 <p class="text-1">Simple HTML, CSS, and JavaScript built Amazon's online store. The website was redesigned after new foundations. This project teaches us how to clone Amazon's e-commerce site with React.
@@ -182,9 +182,9 @@ function Home() {
             </div>
             </div>
           <div className="projects-detail" id="project2">
-            <a href="https://mohidshahid.netlify.app/#" className="code-link1">
+            <a href="https://github.com/SamiaSaghir89/resturant-for-table-reservation" className="code-link1">
             <img src="/pics/github (1).png" alt="" /></a>
-            <img src="/pics/pro2.png" alt="" className="Project-img" />
+            <img src="/pics/pro2.PNG" alt="" className="Project-img" />
             <div className="elements">
               <h3 className="project-heading">Restaurant For Table Reservation</h3>
               <p className="text-1">The system was created to offer online reservation services to customers. Services to see menus and reserve tables utilising html, css, bootstrap, and javascript
@@ -201,7 +201,7 @@ function Home() {
           <div className="projects-detail" id="project3">
             <a href="https://github.com/SamiaSaghir89/YumFood" className="code-link1">
             <img src="/pics/github (1).png" alt="" /></a>
-            <img src="/pics/pro3.png" className="Project-img" alt="" />
+            <img src="/pics/pro3.PNG" className="Project-img" alt="" />
             <div className="elements">
               <h3 className="project-heading">YumFood</h3>
               <p className="text-1">I created "YumFood" using the MERN (MongoDB, Express.js, React, Node.js) technology stack. YumFood is an online food ordering and
